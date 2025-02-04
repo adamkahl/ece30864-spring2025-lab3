@@ -5,3 +5,6 @@
     Cons of Agile development:
     1. It can be unpredictable due to the flexible nature of the requirements.
     2. It can be difficult to scale to large teamss
+2. Explain the role and responsibilities of the Scrum Master vs the Product Owner
+The product owner is responsible for defining and prioritizing backlog tasks, as well as ensuring as much value as possible is extracted from the product.
+The scrum master is responsible for responsible for facilitating the scrum process for all the team members. 
