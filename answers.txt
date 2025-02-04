@@ -6,5 +6,16 @@
     1. It can be unpredictable due to the flexible nature of the requirements.
     2. It can be difficult to scale to large teamss
 2. Explain the role and responsibilities of the Scrum Master vs the Product Owner
-The product owner is responsible for defining and prioritizing backlog tasks, as well as ensuring as much value as possible is extracted from the product.
-The scrum master is responsible for responsible for facilitating the scrum process for all the team members. 
+    The product owner is responsible for defining and prioritizing backlog tasks, as well as ensuring as much value as possible is extracted from the product.
+    The scrum master is responsible for responsible for facilitating the scrum process for all the team members. 
+3. What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+    1. Sprint planning
+        a.Determine what to complete in the coming sprint
+        b. Move stories in sprint scope from backlog to current sprint
+    2. Daily scrum (stand-ups)
+        a. Discuss work completed
+        b. Discuss work planned
+        c. discuss blockers
+    3. Sprint Retrospective
+        a. Discuss completed work
+        b. Move incomplete work to backlog
